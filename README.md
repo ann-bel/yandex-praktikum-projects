@@ -27,7 +27,7 @@
 <td>Python, Pandas, Matplotlib, Seaborn, когортный анализ, юнит-экономика, продуктовые метрики</td>
 <tr>
 <td><a href="https://public.tableau.com/app/profile/belyaeva.ann/viz/Practicum_yandex_dzen_Belyaeva/sheet4?publish=yes" target="_blank"><b>Создание дашборда по пользовательским событиям для агрегатора новостей</b></a></td>
-<td>Исследование истории пользовательских событий и создание дашборда на основе полученных данных. <br>Результат:<br>Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.</td>
+<td>Исследование истории пользовательских событий и создание дашборда на основе полученных данных. <br>Результат:<br>Подготовлен интерактивный дашборд. Для создания дашбордов использован BI-инструмент Tableau.</td>
 <td>Tabeau, продуктовые метрики, построение дашбордов</td>  
 <tr>
 <td><a href="https://github.com/ann-bel/yandex-praktikum-projects/blob/main/monetization_game/Monetization_of_the_game.ipynb" target="_blank"><b>Формирование модели монетизации мобильной игры</b></a></td>
